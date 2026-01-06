@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Let Me Know",
+  "base_artist": "KEIJU",
+  "createdAt": "2026-01-06T04:46:24.531657Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Let Me Know",
+      "artist": "Mayer Hawthorne",
+      "has_synced": false,
+      "path": "select/01_Let_Me_Know_Mayer_Hawthorne.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Let Me Know",
+      "artist": "Róisín Murphy",
+      "has_synced": true,
+      "path": "select/02_Let_Me_Know_Róisín_Murphy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't Let Me Know",
+      "artist": "The Joy Formidable",
+      "has_synced": true,
+      "path": "select/03_Don't_Let_Me_Know_The_Joy_Formidable.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Let Me Know It's Real",
+      "artist": "Devin the Dude",
+      "has_synced": true,
+      "path": "select/04_Let_Me_Know_It's_Real_Devin_the_Dude.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Let Me Know (I Wonder Why Freestyle)",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/05_Let_Me_Know_(I_Wonder_Why_Freestyle)_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "If You Love Me (Let Me Know)",
+      "artist": "Elvis Presley",
+      "has_synced": false,
+      "path": "select/06_If_You_Love_Me_(Let_Me_Know)_Elvis_Presley.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Let Me Know",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": true,
+      "path": "select/07_Let_Me_Know_Yeah_Yeah_Yeahs.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Let Me Know (Demo Version)",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": true,
+      "path": "select/08_Let_Me_Know_(Demo_Version)_Yeah_Yeah_Yeahs.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Let Me Know",
+      "artist": "Kiss",
+      "has_synced": true,
+      "path": "select/09_Let_Me_Know_Kiss.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Let Me Know",
+      "artist": "Gabriella Cilmi",
+      "has_synced": true,
+      "path": "select/10_Let_Me_Know_Gabriella_Cilmi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Let Me Know",
+      "artist": "Jimmy Brown",
+      "has_synced": true,
+      "path": "select/11_Let_Me_Know_Jimmy_Brown.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Let Me Know (K-Pop Version)",
+      "artist": "Jimmy Brown",
+      "has_synced": true,
+      "path": "select/12_Let_Me_Know_(K-Pop_Version)_Jimmy_Brown.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Let Me Know - K-Pop Version",
+      "artist": "Jimmy Brown",
+      "has_synced": true,
+      "path": "select/13_Let_Me_Know_-_K-Pop_Version_Jimmy_Brown.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Let Me Know",
+      "artist": "A R I Z O N A",
+      "has_synced": true,
+      "path": "select/14_Let_Me_Know_A_R_I_Z_O_N_A.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Let Me Know",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/15_Let_Me_Know_BTS.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Let Me Know",
+      "artist": "Collie Buddz",
+      "has_synced": false,
+      "path": "select/16_Let_Me_Know_Collie_Buddz.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Let Me Know",
+      "artist": "KEIJU",
+      "has_synced": false,
+      "path": "select/pl_01_Let_Me_Know_KEIJU.txt"
+    }
+  ]
+}
